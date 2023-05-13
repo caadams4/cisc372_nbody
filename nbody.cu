@@ -105,7 +105,6 @@ int main(int argc, char **argv)
                 compute();
         }
         clock_t t1=clock()-t0;
-        printf("yeeeeeeeeeeeeee\n");
 
         printSystem(stdout);
 
